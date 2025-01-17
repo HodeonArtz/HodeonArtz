@@ -1,7 +1,10 @@
 ## Hi there 👋 I'm Glen
 
 ### I currently work with...
-![skills](https://skillicons.dev/icons?i=react,nextjs,vercel,bootstrap,ts,js,prisma,vite,vitest,jest,nodejs,npm,sass,css,html,php,symfony,laravel,postman,angular,mysql,vscode,git,github,bitbucket,md,linux,bash,ubuntu,figma,ps,ae,pr,&perline=15&theme=light)
+
+<div style="text-align:center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vercel,bootstrap,ts,js,prisma,vite,vitest,jest,nodejs,npm,sass,css,html,php,symfony,laravel,postman,angular,mysql,vscode,git,github,bitbucket,md,linux,bash,ubuntu,figma,ps,ae,pr,&perline=15&theme=light" alt="skills" />
+</div>
 
 <!--
 **HodeonArtz/HodeonArtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
